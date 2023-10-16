@@ -1,1 +1,1 @@
-Creating with bash
+creating with bash
